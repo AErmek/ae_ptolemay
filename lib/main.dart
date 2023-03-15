@@ -7,7 +7,7 @@ import 'package:ae_ptolemay/src/feature/counter/bloc/counter_bloc.dart';
 import 'package:ae_ptolemay/src/feature/theme/bloc/theme_bloc.dart';
 import 'package:ae_ptolemay/src/feature/weather/bloc/weather_bloc.dart';
 import 'package:ae_ptolemay/src/feature/weather/data_provider/open_meteo_api_client.dart';
-import 'package:ae_ptolemay/src/feature/weather/weather_repository.dart';
+import 'package:ae_ptolemay/src/feature/weather/repository/weather_repository.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:bloc_concurrency/bloc_concurrency.dart' as bloc_concurrency;
